@@ -248,7 +248,7 @@ ul>li {
   z-index: 1;
 }
 .img1 { height: 335; width: 600; }
-@media only screen and (max-width:1000px) {
+@media only screen and (max-width:900px) {
   .img1 { height: 110 ; width: 155;
      border: 1px solid black;
      padding: 3px;
@@ -257,8 +257,8 @@ ul>li {
      position: relative;
      animation-name: example;
      animation-duration: 2s;
-     height: 220px;
-     width: 320px;
+     height: 330px;
+     width: 420px;
 }
 
 
@@ -365,7 +365,7 @@ ul>li {
           top: 30px;
       }
       to {
-          left: 60px;
+          left: 90px;
           top: 30px;
       }
   }
