@@ -248,7 +248,7 @@ ul>li {
   z-index: 1;
 }
 .img1 { height: 335; width: 600; }
-@media only screen and (max-width:900px) {
+@media only screen and (max-width:1000px) {
   .img1 { height: 110 ; width: 155;
      border: 1px solid black;
      padding: 3px;
@@ -365,7 +365,7 @@ ul>li {
           top: 30px;
       }
       to {
-          left: 58px;
+          left: 60px;
           top: 30px;
       }
   }
